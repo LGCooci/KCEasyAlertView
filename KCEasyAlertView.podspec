@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/KCEasyAlertView.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/LGCooci/KCEasyAlertView.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
